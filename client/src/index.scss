@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root,
+main {
+  height: 100%;
+}
+
+header{
+  nav{
+    a{
+      margin-left: 10px;
+      &.active{
+        text-decoration: underline;
+      }
+      &:hover{
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+footer{
+  nav{
+    a{
+      margin-left: 10px;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
+  }
+}
