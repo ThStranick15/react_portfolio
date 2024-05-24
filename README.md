@@ -24,6 +24,7 @@ The user will enter onto the about page where they can view info about Thomas. T
 
 ## Deployment
 Link to the repo - [React Portfolio](https://github.com/ThStranick15/react_portfolio)
+Deployed app - [Netlify](https://thstranick-react-portfolio.netlify.app)
 
 ## Contributors
 - Thomas Stranick:  https://github.com/ThStranick15
